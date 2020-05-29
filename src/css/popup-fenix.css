@@ -582,9 +582,6 @@ body:not([data-more~="e"]) [data-more="e"] {
 :root.desktop body {
     --popup-gap: calc(var(--font-size) * 0.875);
     }
-:root.desktop #switch:hover {
-    background-color: var(--default-surface-hover);
-    }
 :root.desktop .rulesetTools [id]:hover {
     fill: var(--default-ink);
     }
